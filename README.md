@@ -1,6 +1,4 @@
-Day 1, roughly 4AM, 11/11/2025. 
-
-[Origin] "What do you want to be when you grow up?
+"What do you want to be when you grow up?
 
 "Kind."
 
