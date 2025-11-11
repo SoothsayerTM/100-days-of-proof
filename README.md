@@ -1,7 +1,7 @@
-echo "# 100-days-of-proof" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SoothsayerTM/100-days-of-proof.git
-git push -u origin main
+Day 1, roughly 4AM, 11/11/2025. 
+
+[Origin] "What do you want to be when you grow up?
+
+"Kind."
+
+I should go to bed and I will but let this be the beginning, the start of my career and I am a autodidact pushing for a A.I engineer career, I have 0 technical qualifications but I am learning. I am living off beans, pasta, water and bread as of writing while I develop my skills. Been this way since August 2024 due to family problems and neglect and the wider world will laugh at me for admitting neglect even as a 25 year old man still experiencing it, they will ask why I don't have a job but don't know my history with psychosis, mental illness and being a survivor. Metabolic adaptation set in and some days I catch myself eating just 2 slices of toast every 8 hours but not because of body dysmorphia, I like my body but due to environment but I am still alive, I will persist, no matter what others think. What sets me apart on this journey? I am doing this on little food and calories but it will not define me, I will progress, I have hope. The story of my life is just horrific, this is a fragment of the story but I still love the universe and all living beings. I am Sam, here I am, witness me. 
